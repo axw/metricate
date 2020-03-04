@@ -1,4 +1,4 @@
-module metricate
+module github.com/axw/metricate
 
 go 1.13
 
